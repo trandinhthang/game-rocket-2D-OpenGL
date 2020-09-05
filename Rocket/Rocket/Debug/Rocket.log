@@ -1,0 +1,40 @@
+﻿  rocket.cpp
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(179,41): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(202,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(208,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(212,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(219,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(226,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(233,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(432,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(447,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(474,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(490,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(506,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(559,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(566,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(573,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(581,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(589,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(593,25): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(593,16): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(595,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(595,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(595,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(596,26): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(596,16): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(598,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(598,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(598,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(599,26): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(599,16): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(644,62): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(644,52): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(644,33): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(644,24): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(646,62): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(646,52): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(646,33): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(646,24): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Rocket\rocket.cpp(718,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Rocket.vcxproj -> E:\GAME2D\TranDinhThang_17DTHC2_DOHOAMAYTINH\Roket1H\Rocket\Debug\Rocket.exe
